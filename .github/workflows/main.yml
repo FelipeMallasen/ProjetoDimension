@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'dimensionsolution'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_xYMxSlBBDar8f3rTYQ2ak73r6z5iSg79hanvWa3f9l858WvaRXZDJu8TiHkF }}
         package: ./projeto-site/build
